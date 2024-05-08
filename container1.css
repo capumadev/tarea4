@@ -1,0 +1,66 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ecf2f8;
+    
+}
+.container {
+    display: flex;
+    flex-direction:row;
+    flex-flow: row wrap;
+    align-items:center;
+}
+
+.container1{
+    display: flex;
+    flex-direction:row;
+    align-items:center;
+    margin: 20px ;
+}
+.testimonio {
+    background-color: #7541c8;
+    padding: 20px;
+    border-radius: 10px;
+    width: 600px;
+    margin-right: 25px;
+}
+
+.imagen{
+    width: 50px;
+    border-radius: 30px;
+    float: left;
+    margin-right: 20px;
+    margin: 0 20 0 20; 
+    border: 3px solid #b28cf0;
+}
+
+.usuario {
+    font-size: 13.5px;
+    margin-bottom: 1px;
+    color: #ffffff;
+}
+
+.contexto1 {
+    font-size: 12.5px;
+    color: #cfcfcf;
+    margin: 0 0 0 0;
+    opacity: 50%;
+    
+}
+.contexto2 {
+    font-size: 20px;
+    margin: 0 10 0 10;
+    color: #ffffff;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.contexto3 {
+    font-size: 15px;
+    line-height: 1;
+    color: #cfcfcf;
+    opacity: 70%;
+    padding-left: 10px;
+    padding-right: 10px;
+}

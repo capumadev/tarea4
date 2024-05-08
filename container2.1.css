@@ -1,0 +1,50 @@
+
+
+.testimonio4 {
+    background-color: #19212e;
+    padding: 20px;
+    border-radius: 10px;
+    width: 600px;
+    margin: 10px;
+}
+
+.imagen5{
+    width: 50px;
+    border-radius: 30px;
+    float: left;
+    margin-right: 20px;
+    margin: 0 20 0 20; 
+    border: 3px solid #b28cf0;
+}
+
+.usuario3 {
+    font-size: 13.5px;
+    margin-bottom: 1px;
+    color: #ffffff;
+}
+
+.contexto10 {
+    font-size: 12.5px;
+    color: #cfcfcf;
+    margin: 0 0 0 0;
+    opacity: 50%;
+    
+}
+.contexto11 {
+    font-size: 20px;
+    margin: 0 10 0 10;
+    color: #ffffff;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.contexto12 {
+    font-size: 13.5px;
+    line-height: 1.3;
+    color: #cfcfcf;
+    opacity: 70%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
